@@ -1,6 +1,6 @@
 {
-  "name": "craftcms/craft",
-  "description": "Craft CMS",
+  "name": "fixedcraft/craft",
+  "description": "Craft CMS with fixed versioning",
   "keywords": [
     "craft",
     "cms",
