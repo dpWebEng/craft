@@ -1,4 +1,4 @@
-This is not an official Craft repo. Head over to https://github.com/craftcms/craft for the official craft repo. This repository is fixed to RC6 and for testing purposes.
+This is not an official Craft repo. Head over to https://github.com/craftcms/craft for the official craft repo. This repository is fixed to RC8 and for testing purposes.
 
 
 <p align="center"><a href="https://craftcms.com/" target="_blank"><img width="312" height="90" src="https://craftcms.com/craftcms.svg" alt="Craft CMS"></a></p>
