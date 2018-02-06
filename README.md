@@ -1,5 +1,5 @@
 ## Heads Up!
-This is not an official Craft repo. Head over to https://github.com/craftcms/craft for the official craft repo. This repository is fixed to RC9 and for testing purposes.
+This is not an official Craft repo. Head over to https://github.com/craftcms/craft if you want to install Craft from its official repository. This repo is fixed to RC9 version and for testing purposes.
 
 ## About Craft CMS
 
