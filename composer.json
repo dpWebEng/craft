@@ -20,15 +20,8 @@
   },
   "require": {
     "craftcms/cms": "3.0.35",
-    "vlucas/phpdotenv": "^2.4.0",
-    "barrelstrength/sprout-seo": "v4.x-dev#f1eccb9ec0db521c6be80ed605253af2bac1cdc0 as 4.0.0-beta.16"
+    "vlucas/phpdotenv": "^2.4.0"
   },
-  "repositories": [
-    {
-      "type": "vcs",
-      "url": "https://github.com/brandonkelly/craft-sprout-seo"
-    }
-  ],
   "autoload": {
     "psr-4": {
       "modules\\": "modules/"
