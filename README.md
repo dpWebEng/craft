@@ -1,7 +1,7 @@
 ## Heads Up!
 This is not an official Craft repo. Head over to https://github.com/craftcms/craft if you want to install Craft from its official repository. This repo is fixed to a version and for testing purposes.
 
-## About Craft CMS
+## About Craft CMS 
 
 Craft is a flexible and scalable CMS for creating bespoke digital experiences on the web and beyond.
 
@@ -26,18 +26,13 @@ See the following documentation pages for help installing Craft 3:
 - [Installation Instructions](https://docs.craftcms.com/v3/installation.html)
 - [Upgrading from Craft 2](https://docs.craftcms.com/v3/upgrade.html)
 
-## Resources
+## Popular Resources
 
-#### Official Resources
-- [Documentation](https://docs.craftcms.com/v3/) – Everything from usage instructions to plugin guides. 
-- [Class Reference](https://docs.craftcms.com/api/v3/) – Full API and class reference for plugin and module developers.
-- [Demo site](https://demo.craftcms.com/) – Quickly launch a personalized demo of a Craft site.
-- [Craft Slack](https://craftcms.com/community#slack) – Join one of the most friendly and helpful Slack groups around.
-- [Craft Commerce](https://craftcommerce.com/) – First-party e-commerce platform for Craft.
-
-#### Community Resources
-- [CraftQuest](https://craftquest.io/) – Unlimited access to Craft training (and more) from Mijingo.
-- [Envato Tuts+](https://webdesign.tutsplus.com/categories/craft-cms/courses) – Video courses.
-- [nystudio107 Blog](https://nystudio107.com/blog) – Articles about Craft and modern web development.
-- [Craft Link List](http://craftlinklist.com/) – Bimonthly newsletter about the Craft ecosystem.
-- [Craft CMS Stack Exchange](http://craftcms.stackexchange.com/) – Community-run Q&A for Craft developers.
+- **[Documentation](http://docs.craftcms.com/v3/)** – Read the official docs.
+- **[Guides](https://craftcms.com/guides)** – Follow along with the official guides.
+- **[#craftcms](https://twitter.com/hashtag/craftcms)** – See the latest tweets about Craft.
+- **[Discord](https://craftcms.com/discord)** – Meet the community.
+- **[Stack Exchange](http://craftcms.stackexchange.com/)** – Get help and help others.
+- **[CraftQuest](https://craftquest.io/)** – Watch unlimited video lessons and courses.
+- **[Craft Link List](http://craftlinklist.com/)** – Stay in-the-know.
+- **[nystudio107 Blog](https://nystudio107.com/blog)** – Learn Craft and modern web development.
