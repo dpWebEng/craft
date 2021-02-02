@@ -20,8 +20,7 @@
   },
   "require": {
     "craftcms/cms": "3.5.17.1",
-    "vlucas/phpdotenv": "^3.4.0",
-    "php": ">=7.2.5"
+    "vlucas/phpdotenv": "^3.4.0"
   },
   "require-dev": {
     "yiisoft/yii2-shell": "^2.0.3"
@@ -32,10 +31,7 @@
     }
   },
   "config": {
-    "optimize-autoloader": true,
-    "platform": {
-      "php": "7.2.5"
-    }
+    "optimize-autoloader": true
   },
 
   "scripts": {
